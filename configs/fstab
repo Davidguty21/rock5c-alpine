@@ -1,0 +1,3 @@
+UUID=bd950258-d5df-4fec-8c3d-1ead7f4c1ed1  /        ext4  rw,relatime  0 1
+tmpfs                                       /tmp     tmpfs defaults     0 0
+UUID=cb494f49-1098-490a-8964-54a5808cb40d  /mnt/nvme  ext4  defaults,nofail  0 2

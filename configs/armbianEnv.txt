@@ -1,0 +1,8 @@
+verbosity=1
+bootlogo=false
+console=both
+extraargs=cma=256M pci=realloc
+overlay_prefix=rockchip-rk3588
+fdtfile=rockchip/rk3588s-rock-5c.dtb
+rootdev=UUID=bd950258-d5df-4fec-8c3d-1ead7f4c1ed1
+rootfstype=ext4
